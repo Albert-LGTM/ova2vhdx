@@ -1,0 +1,32 @@
+# Binaries
+ova2vhdx
+ova2vhdx.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output
+/dist/
+/build/
+
+# Test output
+*.vhdx
+*.ova
+*.vmdk
+
+# Go
+*.test
+*.out
+coverage.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
