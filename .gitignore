@@ -1,6 +1,6 @@
 # Binaries
-ova2vhdx
-ova2vhdx.exe
+/ova2vhdx
+/ova2vhdx.exe
 *.exe
 *.dll
 *.so
